@@ -1,5 +1,5 @@
 // Some() Definition
-// When we need to check that if the element exist or not, can in array and object as well and it'll return false or true
+// When we need to check that if the element exist or not, can be in array and object as well and it'll return false or true
 
 
 
